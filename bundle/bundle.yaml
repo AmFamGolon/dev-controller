@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "AmFamGolon-dev-controller"
+description: "CloudBees CI configuration bundle for the AmFamGolon dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/amfamgolon/dev-controller"
+parent: "base"
